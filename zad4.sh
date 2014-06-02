@@ -1,5 +1,4 @@
 #!/bin/bash
-# o to chodzilo?
 #./zadanie4.sh login_na_olimpie
 
 if [[ $# < 1 ]]; then
